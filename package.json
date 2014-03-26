@@ -1,0 +1,10 @@
+{
+	"name":"google-spreadsheet-reader",
+	"description":"Google Spreadsheet Reader",
+	"version":"0.0.1",
+	"private":"true",
+	"dependencies":{
+		"request":"*",
+		"xml2js":"*"
+	}
+}
